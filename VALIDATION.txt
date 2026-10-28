@@ -1,0 +1,11 @@
+FINAL CHECKLIST
+- index.html present
+- style.css present
+- all local image/video references present
+- internal navigation anchors present
+- HTML5 video present and stored locally
+- contact form present with four required fields
+- form button is type=button so it does not refresh or submit
+- three graphical elements explicitly labelled in About
+- mobile navigation receives a dedicated small-screen grid layout
+- no JavaScript required
